@@ -1,0 +1,8 @@
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Debug\Welcome.Properties.Resources.resources
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Debug\Welcome.Welcome.resources
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Debug\Welcome.csproj.GenerateResource.Cache
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\bin\Debug\Welcome.exe
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\bin\Debug\Welcome.pdb
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Debug\Welcome.exe
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Debug\Welcome.pdb
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Debug\Welcome.csprojResolveAssemblyReference.cache

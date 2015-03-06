@@ -1,0 +1,7 @@
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\bin\Release\Welcome.exe
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\bin\Release\Welcome.pdb
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Release\Welcome.Properties.Resources.resources
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Release\Welcome.Welcome.resources
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Release\Welcome.csproj.GenerateResource.Cache
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Release\Welcome.exe
+F:\DO IT NOW\ing-C++-2012-11-27文件夹模版\Zhongdaxia\Now\Welcome\Welcome\obj\x86\Release\Welcome.pdb
